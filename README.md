@@ -1,6 +1,8 @@
 # Lidar Obstacle Detection 
 
-<img src="out/output.gif" width="700" height="400"/>
+<p align=center>
+	<img src="out/output.gif" width="700" height="400"/>
+</p>
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
