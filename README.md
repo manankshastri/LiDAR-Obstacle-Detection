@@ -1,4 +1,4 @@
-# Lidar Obstacle Detection (in progress)
+# Lidar Obstacle Detection 
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
