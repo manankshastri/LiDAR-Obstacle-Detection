@@ -3,6 +3,8 @@
 #ifndef PROCESSPOINTCLOUDS_H_
 #define PROCESSPOINTCLOUDS_H_
 
+#include <boost/filesystem.hpp>
+
 #include <pcl/io/pcd_io.h>
 #include <pcl/common/common.h>
 #include <pcl/filters/extract_indices.h>
